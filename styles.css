@@ -56,8 +56,6 @@ li:hover {
 .nav__logo {
   font-size: 20px;
   font-weight: 600;
-}
-.nav__logo i {
   color: orange;
 }
 
@@ -74,6 +72,7 @@ li:hover {
   }
   .nav__sns {
     justify-content: center;
+    text-align: center;
     width: 100%;
   }
 
